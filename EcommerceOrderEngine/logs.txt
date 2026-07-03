@@ -1,0 +1,6 @@
+2026-03-30T15:37:41.711827600 : Product added: TV (ID: 101)
+2026-03-30T15:40:55.762403900 : Product added: TV (ID: 101)
+2026-03-30T15:41:20.172012200 : User 1 added product 101 qty 2
+2026-03-30T15:42:36.305860 : User 1 started placing order
+2026-03-30T15:42:36.316864800 : Order created with ID: 1
+2026-03-30T15:42:36.326855 : Payment SUCCESS for order 1
